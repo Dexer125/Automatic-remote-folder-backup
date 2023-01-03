@@ -1,0 +1,7 @@
+-----------------
+
+Config file C#
+
+https://stackoverflow.com/questions/114527/simplest-way-to-have-a-configuration-file-in-a-windows-forms-c-sharp-application
+
+-----------------
